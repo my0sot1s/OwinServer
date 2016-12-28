@@ -1,0 +1,65 @@
+--temp-output:c:\Users\0baut_000\Desktop\OwinServer\obj\Debug\net452\
+--out:c:\Users\0baut_000\Desktop\OwinServer\bin\Debug\net452\OwinServer.exe
+--define:DEBUG
+--define:TRACE
+--define:NET452
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--platform:x64
+--optimize:False
+--debug-type:portable
+--emit-entry-point:True
+--output-name:OwinServer
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.5.2
+--reference:C:\Users\0baut_000\.nuget\packages\Microsoft.AspNet.WebApi.Client\5.2.3\lib\net45\System.Net.Http.Formatting.dll
+--reference:C:\Users\0baut_000\.nuget\packages\Microsoft.AspNet.WebApi.Core\5.2.3\lib\net45\System.Web.Http.dll
+--reference:C:\Users\0baut_000\.nuget\packages\Microsoft.AspNet.WebApi.Owin\5.2.3\lib\net45\System.Web.Http.Owin.dll
+--reference:C:\Users\0baut_000\.nuget\packages\Microsoft.Owin\2.0.2\lib\net45\Microsoft.Owin.dll
+--reference:C:\Users\0baut_000\.nuget\packages\Microsoft.Owin.Host.HttpListener\2.0.2\lib\net45\Microsoft.Owin.Host.HttpListener.dll
+--reference:C:\Users\0baut_000\.nuget\packages\Microsoft.Owin.Hosting\2.0.2\lib\net45\Microsoft.Owin.Hosting.dll
+--reference:C:\Users\0baut_000\.nuget\packages\Newtonsoft.Json\6.0.4\lib\net45\Newtonsoft.Json.dll
+--reference:C:\Users\0baut_000\.nuget\packages\Owin\1.0.0\lib\net40\Owin.dll
+--reference:C:\Users\0baut_000\.nuget\packages\System.Data.Common\4.3.0\ref\net451\System.Data.Common.dll
+--reference:C:\Users\0baut_000\.nuget\packages\System.Data.SqlClient\4.3.0\ref\net451\System.Data.SqlClient.dll
+--reference:C:\Users\0baut_000\.nuget\packages\Topshelf\4.0.3\lib\net452\Topshelf.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll
+c:\Users\0baut_000\Desktop\OwinServer\ConfigApiMiddleware.cs
+c:\Users\0baut_000\Desktop\OwinServer\OwinServer.cs
+c:\Users\0baut_000\Desktop\OwinServer\Program.cs
+c:\Users\0baut_000\Desktop\OwinServer\ServerRun.cs
+c:\Users\0baut_000\Desktop\OwinServer\Startup.cs
+c:\Users\0baut_000\Desktop\OwinServer\Controller\RequestsController.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbReader\DbInfor.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbReader\ReaderChiTietHoaDon.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbReader\ReaderChiTietSanPham.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbReader\ReaderDonViTinh.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbReader\ReaderHoaDon.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbReader\ReaderNhaCungCap.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbReader\ReaderSanPham.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbWrite\UpdateChiTietHoaDon.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbWrite\UpdateChiTietSanPham.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbWrite\UpdateDefined.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbWrite\UpdateDonViTinh.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbWrite\UpdateHoaDon.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbWrite\UpdateNhaCungCap.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\DbWrite\UpdateSanPham.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Entity\ChiTietHoaDon.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Entity\ChiTietSanPham.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Entity\DonViTinh.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Entity\HoaDon.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Entity\NhaCungCap.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Entity\SanPham.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Memory\Memory.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Memory\MemoryDeletes.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Memory\MemoryGetOrGetAll.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Memory\MemoryInit.cs
+c:\Users\0baut_000\Desktop\OwinServer\DAL\Memory\MemorySet.cs

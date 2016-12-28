@@ -1,0 +1,5 @@
+    "System.Data.Common": "4.3.0",
+    "System.Data.SqlClient": "4.3.0",
+    "Topshelf": "4.0.3",
+    "Owin": "1.0.0",
+    "Microsoft.AspNet.WebApi.Owin": "5.2.3"
